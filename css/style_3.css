@@ -1,0 +1,70 @@
+body{
+    color: #282828;
+}
+.reusme-title{
+    font-size: 30px;
+    font-weight: 800;
+    width: 1130px;
+    padding: 10px 0px 15px 20px;
+    background-color: #5f6769;
+    color: #fff;
+    border-right-style:solid;
+    border-right-color: #dfddc7;
+}
+.head1{
+    font-size: 24px;
+    font-weight: 800;
+    display: bolck-flex;
+    float: left;
+    clear: both;
+    height: 100px;
+    line-height:100px;
+    width: 150px;
+    text-align: center;
+    background-color: #dfddc7;
+    border-bottom-style:solid;
+    border-bottom-color: #fff;
+}
+.context1{
+    font-size: 18px;
+    display: bolck-flex;
+    height: 100px;
+    width: 1150px;
+    border-bottom-style:solid;
+    border-bottom-color: #dfddc7;
+    border-right-style:solid;
+    border-right-color: #dfddc7;
+}
+.title1{
+    padding: 0px 0px 10px 0px;
+    font-weight: 800;
+    display: inline-flex;
+    
+}
+.context3{
+    padding: 0px 50px 0px 0px;
+    display: inline-flex;
+}
+.context2{
+    display: block;
+    font-size: 18px;
+    float: left;
+    height: 100px;
+    width: 1000px;
+    border-bottom-style:solid;
+    border-bottom-color: #dfddc7;
+    border-right-style:solid;
+    border-right-color: #dfddc7;
+}
+.title2{
+    display: inline-flex;
+    font-weight: 800;
+    padding: 0px 0px 0px 0px;
+}
+.context4{
+    display: inline-flex;
+    padding: 0px 0px 10px 0px;
+}
+.item1{
+    display: block;
+}

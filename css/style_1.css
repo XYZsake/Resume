@@ -1,0 +1,42 @@
+body{
+    color: #282828;
+}
+.reusme-title{
+    font-size: 32px;
+    font-weight: 800;
+    padding: 10px 0px 15px 0px;
+}
+.head1{
+    font-size: 26px;
+    font-weight: 800;
+    display: bolck-flex;
+    padding: 30px 0px 0px 0px;
+}
+.context1{
+    font-size: 20px;
+    display: bolck-flex;
+    padding: 25px 0px 25px 0px;
+}
+.title1{
+    padding: 10px 15px 10px 0px;
+    font-weight: 800;
+    display: inline-flex;
+}
+.context3{
+    padding: 0px 50px 0px 0px;
+    display: inline-flex;
+}
+.context2{
+    display: block;
+    font-size: 20px;
+    padding: 25px 0px 25px 0px;
+}
+.title2{
+    display: block;
+    font-weight: 800;
+    padding: 10px 0px 0px 0px;
+}
+.context4{
+    display: block;
+    padding: 0px 0px 10px 0px;
+}
